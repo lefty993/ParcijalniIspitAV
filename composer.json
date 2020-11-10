@@ -1,0 +1,5 @@
+{
+    "require": {
+        "ondram/ci-detector": "^3.5"
+    }
+}
